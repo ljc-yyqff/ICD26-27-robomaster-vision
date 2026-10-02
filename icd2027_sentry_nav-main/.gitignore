@@ -1,0 +1,17 @@
+build/
+build_icd_model/
+install/
+log/
+log_icd_model/
+__pycache__/
+*.pyc
+*.pcd
+sentry_model/
+icd2027sentry_model/*.STEP
+icd2027sentry_model/*.step
+icd2027sentry_model/*.stp
+icd2027sentry_model/*.SLDASM
+icd2027sentry_model/*.SLDPRT
+~$*
+*.3MF
+*.3mf
